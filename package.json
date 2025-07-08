@@ -1,0 +1,21 @@
+{
+  "name": "functional-matrix",
+  "displayName": "Functional Matrix - Clubcleaver",
+  "description": "Greens with actual usage considerations, tested for GO, JS, TS, React, HTML, CSS, Tailwind",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Functional Matrix - Clubcleaver",
+        "uiTheme": "vs-dark",
+        "path": "./themes/functional-matrix-color-theme.json"
+      }
+    ]
+  }
+}

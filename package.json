@@ -2,9 +2,12 @@
   "name": "functional-matrix",
   "displayName": "Functional Matrix - Clubcleaver",
   "description": "Greens with actual usage considerations, tested for GO, JS, TS, React, HTML, CSS, Tailwind",
-  "version": "0.0.1",
+  "icon": "./images/functional_matrix_logo.png",
+  "version": "1.0.0",
   "publisher": "clubcleaver",
-  "author": {"name": "clubcleaver"},
+  "author": {
+    "name": "clubcleaver"
+  },
   "license": "MIT",
   "engines": {
     "vscode": "^1.101.0"

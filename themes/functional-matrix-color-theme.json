@@ -226,8 +226,19 @@
 		// For the final placeholder ($0) that appears after you're done
 		"editor.snippetFinalTabstopHighlightBackground": "#00000000",
 		"editor.snippetFinalTabstopHighlightBorder": "#00000000",
+		// Bracket Colors
 		"editorBracketMatch.border": "#000000",
 		"editorBracketMatch.background": "#062f0000",
+		// "editorBracketForeground.foreground": "#00FF4100",
+		// Modern Bracket Pair Colorization (Forcing them to be uniform)
+		"editorBracketHighlight.foreground1": "#00FF41",
+		"editorBracketHighlight.foreground2": "#00FF41",
+		"editorBracketHighlight.foreground3": "#00FF41",
+		"editorBracketHighlight.foreground4": "#00FF41",
+		"editorBracketHighlight.foreground5": "#00FF41",
+		"editorBracketHighlight.foreground6": "#00FF41",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#FF0000",
+		// The "Match" Feel (when the cursor is near a bracket)
 		"editorIndentGuide.activeBackground1": "#008f00",
 		"editorIndentGuide.background1": "#036400a1",
 		"editor.foldBackground": "#007f0055",

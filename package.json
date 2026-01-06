@@ -3,7 +3,7 @@
   "displayName": "Functional Matrix - Clubcleaver",
   "description": "Greens with actual usage considerations, tested for GO, JS, TS, React, HTML, CSS, Tailwind",
   "icon": "./images/functional_matrix_logo.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "clubcleaver",
   "author": {
     "name": "clubcleaver"
